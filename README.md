@@ -8,7 +8,8 @@ step 1: Please click "issues" on the page
 
 ![issues](https://github.com/tidb-challenge-program/bug-hunting-issue/blob/master/media/issues.png)
 
-Step 2: Click "New issue"![new-issue](https://github.com/tidb-challenge-program/bug-hunting-issue/blob/master/media/new-issue.png)
+Step 2: Click "New issue"
+![new-issue](https://github.com/tidb-challenge-program/bug-hunting-issue/blob/master/media/new-issue.png)
 
 Step 3:  Click“Get started”
 
